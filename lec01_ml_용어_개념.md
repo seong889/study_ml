@@ -30,3 +30,10 @@
  
  > 스스로 학습하여 비슷한 기사들 끼리 grouping
  
+### 용어 설명
+#### regression
+ Input에 대한 결과의 범위가 넓은 예측을 수행
+#### binary classification
+ Input에 대한 결과로 Pass / Non-Pas 와 같은 둘 중 하나의 label 선택하는 분류 방식
+#### multi-label classification
+ Input에 대한 결과가 학점(A,B,C,D,F)와 같은 다수의 label을 선택하는 방식
